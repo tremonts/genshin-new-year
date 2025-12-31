@@ -476,7 +476,8 @@ footer {
     
     body {
         background: 
-            url('./Images/BackgroundLiyue.png') no-repeat center center fixed;
+            url('Images/BackgroundLiyue.png') no-repeat center center fixed;
         background-size: cover;
     }
+
 }
